@@ -19,10 +19,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 
-## 📌 Projects  
+## 📌 Projects
 
-- **🏠 Homestay Booking App** – Built using **MERN stack**, allows users to be hosts and tourists. Uses **AWS S3** for image storage.  
-- **🌱 AgroHelp** – A responsive web platform using **React & Node.js**, integrated with a **trained deep learning model (ResNet-50)** to identify **crop diseases** and provide **data-driven solutions for farmers**.  
+- **🏠 Homestay Booking App** – Built using **MERN stack**, allows users to be hosts and tourists. Uses **AWS S3** for image storage.
+
+- **🌱 AgricultureConsultant** – An AI-powered web app for plant disease detection, crop recommendation, and fertilizer suggestions.  
+  **Tech Stack**: React, Vite.js, Flask, DETR (Transformer), OpenWeatherMap API, Google Gemini  
+  - ✅ Detects plant diseases with 90%+ accuracy  
+  - 🌾 Recommends crops and fertilizers based on soil and weather data  
+  - ☁️ Real-time weather integration for smart care tips
+
 
 ---
 ## 📊 GitHub Stats  
